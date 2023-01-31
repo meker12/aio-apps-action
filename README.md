@@ -24,7 +24,7 @@ This Github action supports following commands
 3) `deploy`
     * Standalone App
       1) AIO_RUNTIME_NAMESPACE - namespace to be used for the App
-      2) AIO_RUNTIME_AUTH - auth for abobe namespace
+      2) AIO_RUNTIME_AUTH - auth for adobe namespace
     * [Extensions](https://www.adobe.io/app-builder/docs/guides/extensions/)
       1) AIO_RUNTIME_NAMESPACE - namespace to be used for the App
       2) AIO_RUNTIME_AUTH - auth for abobe namespace
